@@ -7,10 +7,10 @@ What is ASD Detection?
 
 Autism Spectrum Disorder (ASD) detection using deep learning leverages neural networks to identify patterns and traits associated with ASD. This approach uses TensorFlow-based models for training and prediction, providing a powerful tool for early diagnosis and assisting healthcare professionals in better understanding ASD characteristics.
 
-Requirements
+Requirements:
+
 Python 3.7 
 The following Python libraries are required:
-
   1. tensorflow (Deep learning framework)
   2.numpy (Numerical computations)
   3.pandas (Data manipulation)
